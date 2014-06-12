@@ -1,0 +1,25 @@
+AN EXAMPLE 
+
+You can run ./run_oligoselect to run the example
+
+This example uses the parameters:
+
+Input file - genetest
+Output file - output
+Oligo length - 70
+Database - db/s_putrefaciens
+GC_Min - .42
+GC_Max - .58
+Percent_match - 20
+Num_matches - 1
+
+These are all realistic values for creating oligos
+
+This example takes a couple of minutes to run.  You will get a Success!
+message when it is finished. Any analysis you run will also take a little
+while.
+
+You can modify run_oligoselect for your own runs.
+
+
+

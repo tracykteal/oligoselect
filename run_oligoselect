@@ -1,0 +1,2 @@
+#! /bin/bash
+./oligoselect.py genetest output 70 db/s_putrefaciens .42 .58 20 1 
